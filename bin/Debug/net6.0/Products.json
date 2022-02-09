@@ -1,0 +1,54 @@
+[
+  {
+    "electronicproductID": 12,
+    "name": "Iphone12",
+    "type": "Phone",
+    "processor": "A13 bionic",
+    "numberofcores": 4,
+    "screensize": 4,
+    "memory": 8,
+    "storage": 32,
+    "battery": 15,
+    "numberofproducts": 4,
+    "price": 800
+  },
+  {
+    "electronicproductID": 16,
+    "name": "Iphone12",
+    "type": "Phone",
+    "processor": "A15 Bionic",
+    "numberofcores": 4,
+    "screensize": 4,
+    "memory": 4,
+    "storage": 32,
+    "battery": 15,
+    "numberofproducts": 3,
+    "price": 800
+  },
+  {
+    "electronicproductID": 13,
+    "name": "Iphone9",
+    "type": "Phone",
+    "processor": "A13 bionic",
+    "numberofcores": 4,
+    "screensize": 4,
+    "memory": 4,
+    "storage": 32,
+    "battery": 15,
+    "numberofproducts": 2,
+    "price": 800
+  },
+  {
+    "electronicproductID": 17,
+    "name": "Iphone11",
+    "type": "Phone",
+    "processor": "A15 Bionic",
+    "numberofcores": 4,
+    "screensize": 4,
+    "memory": 8,
+    "storage": 32,
+    "battery": 15,
+    "numberofproducts": 2,
+    "price": 1200
+  }
+]
