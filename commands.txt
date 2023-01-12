@@ -1,0 +1,4 @@
+In package manager console run:
+Add-Migration DatabaseMigration
+
+update-database DatabaseMigration
